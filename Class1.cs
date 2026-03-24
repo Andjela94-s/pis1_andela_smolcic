@@ -8,6 +8,7 @@ namespace pis1_andela_smolcic
 {
     internal class Class1
     {
+        //komentar2
         //komentar iz vsa
     }
 }
